@@ -127,6 +127,7 @@ $(document).ready(function(){
 					if(chave == true){
 						getImgSize(valor_de_x,valor_de_y);
 					}
+					
 				} 			
 			}
 	
@@ -136,8 +137,8 @@ $(document).ready(function(){
 		
 		function getImgSize(valor_de_x,valor_de_y,X,Y) {
 	
-			 var tamanho_x = valor_de_x * 2.54 / 96 * 1.7;
-			 var tamanho_y = valor_de_y * 2.54 / 96 * 2.2;
+			 var tamanho_x = valor_de_x * 2.54 / 96;
+			 var tamanho_y = valor_de_y * 2.54 / 96;
 			
 			 	if(tamanho_x > tamanho_y){
 					
