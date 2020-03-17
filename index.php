@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Image Meter</title>
 </head>
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <link rel="stylesheet" type="text/css" href="style/style.css">
 <script type="text/javascript" src="js/main.js"></script>
 
