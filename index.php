@@ -10,7 +10,7 @@
 <script type="text/javascript" src="js/main.js"></script>
 
 <body>
-	<img id="imagem" src="img/f2.jpeg" style="display: none">
+	<img id="imagem" src="img/f2.jpeg" style="display: none"/>
 	<div class="controles">
 		<label id="undo" data-tooltip="Voltar"><img src="icon/baseline_reply_white_24dp.png" class="voltar hover"/></label>
 		<label data-tooltip="Upload" class="custom-file-upload">
